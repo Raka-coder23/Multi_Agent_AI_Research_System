@@ -5,3 +5,5 @@ langchain-google-genai
 langchain-community
 python-dotenv
 tavily-python
+requests
+beautifulsoup4
