@@ -9,7 +9,7 @@ load_dotenv()
 
 
  # model setup
-llm= ChatGoogleGenerativeAI(model="gemini-3.6-flash",temperature=0)
+llm= ChatGoogleGenerativeAI(model="gemini-3.6-flash")
 
 # search agent
 
